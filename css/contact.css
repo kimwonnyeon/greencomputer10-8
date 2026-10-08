@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* 문의 하기 영역 */
+.contact-form{
+    width: 500px;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius:10px;
+    background-color: antiquewhite;
+}
+/* 제목 */
+.contact-form h2{
+    margin-bottom: 25px;
+}
+/* label은 한 줄을 차지하도록 설정 */
+.contact-form label{
+    display: block;
+}
